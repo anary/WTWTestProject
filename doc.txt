@@ -1,0 +1,8 @@
+After loaded the application, please rebuild the whole solution. It should pull all dependencies from NuGet.
+
+The source txt file should be inside the same path of .exe.
+The output file is on the same fold as well.
+
+Thanks for having this chance to demonstrate my solution for this issue.
+
+Andy
